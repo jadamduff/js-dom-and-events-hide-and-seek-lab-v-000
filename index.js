@@ -1,0 +1,1 @@
+let getFirstSelector = querySelector('ul');
