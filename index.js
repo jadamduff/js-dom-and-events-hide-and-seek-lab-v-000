@@ -1,1 +1,1 @@
-let getFirstSelector = querySelector('ul');
+let getFirstSelector = document.querySelector('ul');
