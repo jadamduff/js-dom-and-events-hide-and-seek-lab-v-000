@@ -1,1 +1,3 @@
-let getFirstSelector = document.querySelector('ul');
+function getFirstSelector() {
+  return document.querySelector('ul');
+}
